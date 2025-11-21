@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+spacy
+scikit-learn
+sentence-transformers   # optional, for semantic similarity
+plotly
+requests
+beautifulsoup4
+python-docx              # if you want to accept .docx resumes
+pdfplumber               # optional, for PDF extraction
+nltk                     # optional, for text processing

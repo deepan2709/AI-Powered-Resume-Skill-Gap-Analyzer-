@@ -1,0 +1,10 @@
+Name: Priya Singh
+Position: Machine Learning Engineer
+
+Skills:
+Python, TensorFlow, PyTorch, Deep Learning, Docker, AWS, Model Deployment
+
+Experience:
+- Developed CNN and RNN models for image and text classification.
+- Containerized ML models using Docker and deployed them to AWS EC2.
+- Optimized model performance using TensorBoard and Hyperparameter Tuning.

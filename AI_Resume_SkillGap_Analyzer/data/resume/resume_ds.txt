@@ -1,0 +1,10 @@
+Name: John Mathew
+Position: Data Scientist
+
+Skills:
+Python, SQL, Pandas, Data Visualization, Machine Learning, Statistics, Scikit-learn, Matplotlib
+
+Experience:
+- Built predictive models for customer churn using Python and scikit-learn.
+- Created dashboards with Plotly and Streamlit for data visualization.
+- Conducted statistical analysis on marketing data using Pandas and NumPy.

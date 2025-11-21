@@ -1,0 +1,10 @@
+Name: Rahul Kumar
+Position: Data Analyst
+
+Skills:
+Excel, SQL, Tableau, Power BI, Data Visualization, Statistics, Reporting
+
+Experience:
+- Created dashboards and reports using Power BI and Tableau.
+- Used SQL queries to clean and analyze datasets.
+- Automated Excel reports using macros and pivot tables.
